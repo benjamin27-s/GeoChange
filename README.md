@@ -1,3 +1,4 @@
+![GeoChange Dashboard](docs/images/dashboard-01.png)
 GeoChange — AI Satellite Change Detection & Forecasting System
 
 GeoChange is an end-to-end geospatial AI system for detecting and forecasting changes in satellite imagery.
